@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: syrian-restitution-roadmap-and-qsf-trust-execution
-  name: Syrian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/syrian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_sy_001
+    name: Syria Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_002
+    name: Syria Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_003
+    name: Syria Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_004
+    name: Syria Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_005
+    name: Syria Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_006
+    name: Syria Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_007
+    name: Syria Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_008
+    name: Syria Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_009
+    name: Syria Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_010
+    name: Syria Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_011
+    name: Syria Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_012
+    name: Syria Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_013
+    name: Syria Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_014
+    name: Syria Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_015
+    name: Syria Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_016
+    name: Syria Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_017
+    name: Syria Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_018
+    name: Syria Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_019
+    name: Syria Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_020
+    name: Syria Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_021
+    name: Syria Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_022
+    name: Syria Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_023
+    name: Syria Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_024
+    name: Syria Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_025
+    name: Syria Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_026
+    name: Syria Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_027
+    name: Syria Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_028
+    name: Syria Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_029
+    name: Syria Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_030
+    name: Syria Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_031
+    name: Syria Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_032
+    name: Syria Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_033
+    name: Syria Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_034
+    name: Syria Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_035
+    name: Syria Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_036
+    name: Syria Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_037
+    name: Syria Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_038
+    name: Syria Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_039
+    name: Syria Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_040
+    name: Syria Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_041
+    name: Syria Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_042
+    name: Syria Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_043
+    name: Syria Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_044
+    name: Syria Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_045
+    name: Syria Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_046
+    name: Syria Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_047
+    name: Syria Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_048
+    name: Syria Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_049
+    name: Syria Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_050
+    name: Syria Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_051
+    name: Syria Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_052
+    name: Syria Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_053
+    name: Syria Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_054
+    name: Syria Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_055
+    name: Syria Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_056
+    name: Syria Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_057
+    name: Syria Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_058
+    name: Syria Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_059
+    name: Syria Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_060
+    name: Syria Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_061
+    name: Syria Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_062
+    name: Syria Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_063
+    name: Syria Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_064
+    name: Syria Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_065
+    name: Syria Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_066
+    name: Syria Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_067
+    name: Syria Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_068
+    name: Syria Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_069
+    name: Syria Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_070
+    name: Syria Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_071
+    name: Syria Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_072
+    name: Syria Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_073
+    name: Syria Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_074
+    name: Syria Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_075
+    name: Syria Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_076
+    name: Syria Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_077
+    name: Syria Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_078
+    name: Syria Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_079
+    name: Syria Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_080
+    name: Syria Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_081
+    name: Syria Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_082
+    name: Syria Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_083
+    name: Syria Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_084
+    name: Syria Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_085
+    name: Syria Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_086
+    name: Syria Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_087
+    name: Syria Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_088
+    name: Syria Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_089
+    name: Syria Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_090
+    name: Syria Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_091
+    name: Syria Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_092
+    name: Syria Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_093
+    name: Syria Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_094
+    name: Syria Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_095
+    name: Syria Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_096
+    name: Syria Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_097
+    name: Syria Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_098
+    name: Syria Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_099
+    name: Syria Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_100
+    name: Syria Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_101
+    name: Syria Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_102
+    name: Syria Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_103
+    name: Syria Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_104
+    name: Syria Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_105
+    name: Syria Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_106
+    name: Syria Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_107
+    name: Syria Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_108
+    name: Syria Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_109
+    name: Syria Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_110
+    name: Syria Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_111
+    name: Syria Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_112
+    name: Syria Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_113
+    name: Syria Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_114
+    name: Syria Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_115
+    name: Syria Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_116
+    name: Syria Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_117
+    name: Syria Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_118
+    name: Syria Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_119
+    name: Syria Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_120
+    name: Syria Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_121
+    name: Syria Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_122
+    name: Syria Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_123
+    name: Syria Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_124
+    name: Syria Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_125
+    name: Syria Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_126
+    name: Syria Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_127
+    name: Syria Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_128
+    name: Syria Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_129
+    name: Syria Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_130
+    name: Syria Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_131
+    name: Syria Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_132
+    name: Syria Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_133
+    name: Syria Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_134
+    name: Syria Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_135
+    name: Syria Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_136
+    name: Syria Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_137
+    name: Syria Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_138
+    name: Syria Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_139
+    name: Syria Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_140
+    name: Syria Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_141
+    name: Syria Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_142
+    name: Syria Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_143
+    name: Syria Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_144
+    name: Syria Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_145
+    name: Syria Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_146
+    name: Syria Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_147
+    name: Syria Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_148
+    name: Syria Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_149
+    name: Syria Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_150
+    name: Syria Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_151
+    name: Syria Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_152
+    name: Syria Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_153
+    name: Syria Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_154
+    name: Syria Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_155
+    name: Syria Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_156
+    name: Syria Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_157
+    name: Syria Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_158
+    name: Syria Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_159
+    name: Syria Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_160
+    name: Syria Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_161
+    name: Syria Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_162
+    name: Syria Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_163
+    name: Syria Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_164
+    name: Syria Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_165
+    name: Syria Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_166
+    name: Syria Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_167
+    name: Syria Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_168
+    name: Syria Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_169
+    name: Syria Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_170
+    name: Syria Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_171
+    name: Syria Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_172
+    name: Syria Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_173
+    name: Syria Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_174
+    name: Syria Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_175
+    name: Syria Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_176
+    name: Syria Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_177
+    name: Syria Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_178
+    name: Syria Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_179
+    name: Syria Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_180
+    name: Syria Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_181
+    name: Syria Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_182
+    name: Syria Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_183
+    name: Syria Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_184
+    name: Syria Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_185
+    name: Syria Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_186
+    name: Syria Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_187
+    name: Syria Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_188
+    name: Syria Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_189
+    name: Syria Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_190
+    name: Syria Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_191
+    name: Syria Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_192
+    name: Syria Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_193
+    name: Syria Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_194
+    name: Syria Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_195
+    name: Syria Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_196
+    name: Syria Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_197
+    name: Syria Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_198
+    name: Syria Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_199
+    name: Syria Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_200
+    name: Syria Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_201
+    name: Syria Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_202
+    name: Syria Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_203
+    name: Syria Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_204
+    name: Syria Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_205
+    name: Syria Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_206
+    name: Syria Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_207
+    name: Syria Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_208
+    name: Syria Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_209
+    name: Syria Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_210
+    name: Syria Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_211
+    name: Syria Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_212
+    name: Syria Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_213
+    name: Syria Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_214
+    name: Syria Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_215
+    name: Syria Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_216
+    name: Syria Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_217
+    name: Syria Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_218
+    name: Syria Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_219
+    name: Syria Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_220
+    name: Syria Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_221
+    name: Syria Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_222
+    name: Syria Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_223
+    name: Syria Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_224
+    name: Syria Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_225
+    name: Syria Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_226
+    name: Syria Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_227
+    name: Syria Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_228
+    name: Syria Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_229
+    name: Syria Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_230
+    name: Syria Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_231
+    name: Syria Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_232
+    name: Syria Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_233
+    name: Syria Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_234
+    name: Syria Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_235
+    name: Syria Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_236
+    name: Syria Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_237
+    name: Syria Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_238
+    name: Syria Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_239
+    name: Syria Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_240
+    name: Syria Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_241
+    name: Syria Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_242
+    name: Syria Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_243
+    name: Syria Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_244
+    name: Syria Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_245
+    name: Syria Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_246
+    name: Syria Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_247
+    name: Syria Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_248
+    name: Syria Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_249
+    name: Syria Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_250
+    name: Syria Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_251
+    name: Syria Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_sy_252
+    name: Syria Skill 252
+    status: ACTIVE_SCAFFOLD

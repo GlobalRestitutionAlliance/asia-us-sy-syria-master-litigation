@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-syria-canal-and-intervention-historian
-  name: Syria Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-syria-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_sy_001
+    name: Syria Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_002
+    name: Syria Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_003
+    name: Syria Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_004
+    name: Syria Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_005
+    name: Syria Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_006
+    name: Syria Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_007
+    name: Syria Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_008
+    name: Syria Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_009
+    name: Syria Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_010
+    name: Syria Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_011
+    name: Syria Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_012
+    name: Syria Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_013
+    name: Syria Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_014
+    name: Syria Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_015
+    name: Syria Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_016
+    name: Syria Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_017
+    name: Syria Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_018
+    name: Syria Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_019
+    name: Syria Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_020
+    name: Syria Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_021
+    name: Syria Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_022
+    name: Syria Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_023
+    name: Syria Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_024
+    name: Syria Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_025
+    name: Syria Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_026
+    name: Syria Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_027
+    name: Syria Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_028
+    name: Syria Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_029
+    name: Syria Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_030
+    name: Syria Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_031
+    name: Syria Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_032
+    name: Syria Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_033
+    name: Syria Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_034
+    name: Syria Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_035
+    name: Syria Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_036
+    name: Syria Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_037
+    name: Syria Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_038
+    name: Syria Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_039
+    name: Syria Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_040
+    name: Syria Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_041
+    name: Syria Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_042
+    name: Syria Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_043
+    name: Syria Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_044
+    name: Syria Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_045
+    name: Syria Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_046
+    name: Syria Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_047
+    name: Syria Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_048
+    name: Syria Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_049
+    name: Syria Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_050
+    name: Syria Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_051
+    name: Syria Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_052
+    name: Syria Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_053
+    name: Syria Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_054
+    name: Syria Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_055
+    name: Syria Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_056
+    name: Syria Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_057
+    name: Syria Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_058
+    name: Syria Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_059
+    name: Syria Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_060
+    name: Syria Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_061
+    name: Syria Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_062
+    name: Syria Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_063
+    name: Syria Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_064
+    name: Syria Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_065
+    name: Syria Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_066
+    name: Syria Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_067
+    name: Syria Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_068
+    name: Syria Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_069
+    name: Syria Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_070
+    name: Syria Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_071
+    name: Syria Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_072
+    name: Syria Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_073
+    name: Syria Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_074
+    name: Syria Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_075
+    name: Syria Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_076
+    name: Syria Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_077
+    name: Syria Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_078
+    name: Syria Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_079
+    name: Syria Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_080
+    name: Syria Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_081
+    name: Syria Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_082
+    name: Syria Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_083
+    name: Syria Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_084
+    name: Syria Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_085
+    name: Syria Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_086
+    name: Syria Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_087
+    name: Syria Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_088
+    name: Syria Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_089
+    name: Syria Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_090
+    name: Syria Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_091
+    name: Syria Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_092
+    name: Syria Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_093
+    name: Syria Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_094
+    name: Syria Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_095
+    name: Syria Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_096
+    name: Syria Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_097
+    name: Syria Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_098
+    name: Syria Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_099
+    name: Syria Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_100
+    name: Syria Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_101
+    name: Syria Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_102
+    name: Syria Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_103
+    name: Syria Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_104
+    name: Syria Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_105
+    name: Syria Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_106
+    name: Syria Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_107
+    name: Syria Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_108
+    name: Syria Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_109
+    name: Syria Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_110
+    name: Syria Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_111
+    name: Syria Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_112
+    name: Syria Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_113
+    name: Syria Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_114
+    name: Syria Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_115
+    name: Syria Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_116
+    name: Syria Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_117
+    name: Syria Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_118
+    name: Syria Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_119
+    name: Syria Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_120
+    name: Syria Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_121
+    name: Syria Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_122
+    name: Syria Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_123
+    name: Syria Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_124
+    name: Syria Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_125
+    name: Syria Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_126
+    name: Syria Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_127
+    name: Syria Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_128
+    name: Syria Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_129
+    name: Syria Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_130
+    name: Syria Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_131
+    name: Syria Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_132
+    name: Syria Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_133
+    name: Syria Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_134
+    name: Syria Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_135
+    name: Syria Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_136
+    name: Syria Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_137
+    name: Syria Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_138
+    name: Syria Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_139
+    name: Syria Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_140
+    name: Syria Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_141
+    name: Syria Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_142
+    name: Syria Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_143
+    name: Syria Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_144
+    name: Syria Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_145
+    name: Syria Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_146
+    name: Syria Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_147
+    name: Syria Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_148
+    name: Syria Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_149
+    name: Syria Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_150
+    name: Syria Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_151
+    name: Syria Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_152
+    name: Syria Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_153
+    name: Syria Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_154
+    name: Syria Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_155
+    name: Syria Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_156
+    name: Syria Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_157
+    name: Syria Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_158
+    name: Syria Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_159
+    name: Syria Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_160
+    name: Syria Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_161
+    name: Syria Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_162
+    name: Syria Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_163
+    name: Syria Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_164
+    name: Syria Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_165
+    name: Syria Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_166
+    name: Syria Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_167
+    name: Syria Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_168
+    name: Syria Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_169
+    name: Syria Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_sy_170
+    name: Syria Agent 170
+    status: ACTIVE_SCAFFOLD
